@@ -1,3 +1,5 @@
+![pfp](https://raw.githubusercontent.com/T1fyOwO/T1fyOwO/refs/heads/main/pfp.png)
+
 ## Hi there 👋
 
 Hello, Im T1fy. Im Intrested In Geometry Dash And Googology. My Timezone Is Central Time (CT) I Love Cats, Infact I Have One!
