@@ -1,7 +1,20 @@
-## Hi there 👋
+## Hi there! 👋
 
-Im T1fy, I Have 2 Years Of Experience In [Python](https://www.python.org/), And 1 Year Of Experience In [C++](https://isocpp.org/). I Code Geode Mods, My Best One Being [Vbot](https://github.com/Vbot-Macro/Vbot)!
-### Other Info
+I'm T1fy, a developer with:
+
+- 🐍 2 years of experience with [Python](https://www.python.org/)
+- ⚙️ 1 year of experience with [C++](https://isocpp.org/)
+
+I develop Geode mods, programming tools, and even my own programming language!
+
+### Some of my projects include:
+
+- 🎮 [Vbot](https://github.com/Vbot-Macro/Vbot) — A Geometry Dash mod.
+- 💻 [C/ (C-Slash)](https://github.com/C-Slash/) — My own lightweight programming language based on C and C++.
+
+### Other Information
+
 - 😁 Pronouns: He/Him
-- 📱 Socials: YouTube: @T1fyOwO TikTok: @T1fyOwO2
+- 📱 YouTube: [@T1fyOwO](https://youtube.com/@T1fyOwO)
+- 🎵 TikTok: [@T1fyOwO2](https://tiktok.com/@T1fyOwO2)
 - 🏳️‍🌈 Sexuality: Asexual (LGBTQIA+)
